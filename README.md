@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Oie, Sou Alex quase um egenheiro da computação.
+
+Estou nos ultimos periodo da faculdade de engenharia, buscando sempre ampliar meus conhecimentos em desenvolvimento de software e hardware.
+
+Costumo desenvolver códigos em CPP, Python e Javascript. Possuo conhecimento também em ciências de dados, onde uso a ferramenta Rstudio para as análises e recentemente comecei a estudar cibersegurança por curiosidade.
+
+Curiosidades sobre mim😉:
+- Gosto de jogos eletronicos e board games
+- Sempre estou aprendendo coisas novas de desenvolvimento
+- Quando eu vejo um cursos online eu me enfio.
 <!--
 **Alex-Ogawa/Alex-Ogawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
